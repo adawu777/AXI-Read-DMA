@@ -1,0 +1,20 @@
+# Simulation outputs
+/build/
+a.out
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.log
+
+# Temporary debugging files
+tmp/
+*.tmp
+*.bak
+*~
+
+# Editor and operating-system files
+.DS_Store
+*.swp
+*.swo

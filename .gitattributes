@@ -1,0 +1,2 @@
+# Preserve PDF specifications as binary artifacts.
+*.pdf binary
